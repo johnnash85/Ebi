@@ -1,0 +1,9 @@
+ .cell_edit  button{
+    display: none;
+    opacity: 0;
+
+}
+.cell_edit:hover button{
+    display:inline-flex;
+    opacity: 1;
+}
