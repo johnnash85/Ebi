@@ -1,0 +1,4 @@
+export const LEGAL_ATTEMPT = "LEGAL_ATTEMPT";
+export const LEGAL_SUCCESS = "LEGAL_SUCCESS";
+export const LEGAL_FAILED = "LEGAL_FAILED";
+

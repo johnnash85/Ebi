@@ -1,0 +1,18 @@
+export const STOCK_LIST_ATTEMPT = "STOCK_LIST_ATTEMPT";
+export const STOCK_LIST_SUCCESS = "STOCK_LIST_SUCCESS";
+export const STOCK_LIST_FAILED = "STOCK_LIST_FAILED";
+//////////////////
+export const STOCK_ITEM_ATTEMPT = "STOCK_ITEM_ATTEMPT";
+export const STOCK_ITEM_SUCCESS = "STOCK_ITEM_SUCCESS";
+export const STOCK_ITEM_FAILED = "STOCK_ITEM_FAILED";
+//////////////////
+export const STOCK_NEW_SUCCESS = "STOCK_NEW_SUCCESS";
+export const STOCK_NEW_FAILED = "STOCK_NEW_FAILED";
+///////////////////
+export const STOCK_REMOVE_SUCCESS = "STOCK_REMOVE_SUCCESS";
+export const STOCK_REMOVE_FAILED = "STOCK_REMOVE_FAILED";
+
+export const STOCK_SET_ITEM = "STOCK_SET_ITEM";
+
+export const STOCK_LIST_RESET = "STOCK_LIST_RESET";
+
