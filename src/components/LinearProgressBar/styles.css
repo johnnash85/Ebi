@@ -1,0 +1,35 @@
+.emptyProgressBar {
+    background-color: #e7e4da;
+    border-radius: 100px;
+    height: 30px;
+    overflow: hidden;
+    position: relative;
+    top: 10px;
+}
+
+.fillingProgressBarG {
+    background-image: linear-gradient(to right, #d7dbd8, #18af3e);
+    border-radius: 100px;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+.fillingProgressBarR {
+    background-image: linear-gradient(to right, #d7dbd8, #e74423);
+    border-radius: 100px;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+.percentage {
+    color: #5273e6;
+    font-size: 46px;
+}
+
+.mainProgressBarDiv {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+}
