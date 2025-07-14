@@ -7,7 +7,7 @@ There are two versions: an open source version that anyone who wants to use this
 https://www.ebitrade.com
 
 If you wish to make a donation, you can do so to the Paypal account.
-johnguzman85@hotmail.com
+johnguzman85@hotmail.com or 
 johnguzman85@gmail.com
 
 If you have any questions, please email us at team@elecsotech.com
