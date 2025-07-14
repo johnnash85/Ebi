@@ -1,3 +1,18 @@
+
+Ebitrade 
+
+Ebitrade.- was created to provide an alternative tool for traders to keep a log of their transactions and, at the same time, analyze their strategies.
+There are two versions: an open source version that anyone who wants to use this tool locally can download, and a web version with managed hosting and storage where they can use it for free with certain limitations or through a subscription soon.
+
+https://www.ebitrade.com
+
+If you wish to make a donation, you can do so to the Paypal account.
+johnguzman85@hotmail.com
+johnguzman85@gmail.com
+
+If you have any questions, please email us at team@elecsotech.com
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
